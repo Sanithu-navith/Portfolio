@@ -22,11 +22,11 @@ body{
     font-family: 'poppins';
 }
 
-.my:hover{
+/* .my:hover{
     transform: scale(1.15);
     font-weight: bold;
    
-}
+} */
 
 /*navbar*/
 
@@ -292,5 +292,14 @@ footer{
     .ci{
         font-size: 10px;
     }
+    .navbar {
+        height: 300px;
+    }
     
+}
+
+@media (min-width:430px){
+    .navbar {
+        height: 150px;
+    }
 }
