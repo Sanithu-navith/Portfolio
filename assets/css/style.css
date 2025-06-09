@@ -342,4 +342,8 @@ footer{
         height: 50px;
         width: 350px;
     }
+    .btn{
+        width:200px;
+        height:50px;
+    }
 }
