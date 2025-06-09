@@ -303,7 +303,7 @@ footer{
         height: 150px;
     }
     p{
-        font-size:40px;
+        font-size:30px;
     }
     .my {
         font-size: 35px;
@@ -342,5 +342,9 @@ footer{
         height: 50px;
         width: 350px;
     }
+    h3{
+        font-size:35px;
+    }
+
     
 }
