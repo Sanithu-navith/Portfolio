@@ -302,4 +302,41 @@ footer{
     .navbar {
         height: 150px;
     }
+    .my {
+        font-size: 35px;
+    }
+    .san{
+        font-size: 40px;
+    }
+    .se{
+        font-size: 30px;
+    }
+
+    .hello {
+        height: 70px;
+        width: 70px;
+    }
+
+    .navbar-toggler {
+        font-size: 45px;
+
+    }
+
+    .hero-section {
+        height: 800px;
+    }
+
+    .profile-img {
+        height: 350px;
+        width: 350px;
+        object-fit: cover;
+        border: 2px solid var(--light-bg);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        transition: transform 0.3s, box-shadow 0.3s;
+        cursor: pointer;
+    }
+    .sanithu{
+        height: 50px;
+        width: 350px;
+    }
 }
