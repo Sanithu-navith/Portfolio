@@ -302,6 +302,9 @@ footer{
     .navbar {
         height: 150px;
     }
+    p{
+        font-size:40px;
+    }
     .my {
         font-size: 35px;
     }
