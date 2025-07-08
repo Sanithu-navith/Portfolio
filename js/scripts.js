@@ -5,3 +5,8 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+const spinnerWrapperEl =  document.querySelector('.spinner-wrapper');
+
+setTimeout( ()=> {
+    spinnerWrapperEl.style.opacity = '0';
+}, 2000);
