@@ -10,3 +10,9 @@ const spinnerWrapperEl =  document.querySelector('.spinner-wrapper');
 setTimeout( ()=> {
     spinnerWrapperEl.style.opacity = '0';
 }, 2000);
+
+function whatsapp(){
+    alert("Please Message and Call For 070-3597699");
+
+}
+
